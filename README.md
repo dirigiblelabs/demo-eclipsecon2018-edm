@@ -7,7 +7,7 @@ Entity Data Model (EDM) for bookshop demo application:
 
 ![Entity Data Model](bookshop-simple/img/entity-data-model.png) 
 
-### Dependencies
+### Dependencies:
 - [bookshop-admin](https://github.com/dirigiblelabs/demo-eclipsecon2018-edm-bookshop-admin)
 - [bookshop-data](https://github.com/dirigiblelabs/demo-eclipsecon2018-edm-bookshop-data)
 
